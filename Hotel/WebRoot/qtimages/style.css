@@ -1,0 +1,68 @@
+BODY {
+	MARGIN: 0px
+}
+BODY TD {
+	FONT-SIZE: 12px
+}
+A:link {
+	COLOR: #000; TEXT-DECORATION: none
+}
+.red {
+	COLOR: #f00
+}
+H2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px
+}
+A:visited {
+	COLOR: #000; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #679810; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #000; TEXT-DECORATION: none
+}
+
+
+
+.boder {
+	BORDER-RIGHT: #b9b9b9 1px solid; BORDER-TOP: #b9b9b9 0px solid; BORDER-LEFT: #b9b9b9 1px solid; BORDER-BOTTOM: #b9b9b9 1px solid
+}
+
+
+
+.newsline TD {
+	LINE-HEIGHT: 25px; BORDER-BOTTOM: #c9c9c9 1px dashed
+}
+.newsline TD A:link {
+	COLOR: #000
+}
+.newsline TD A:visited {
+	COLOR: #000
+}
+.newsline TD A:hover {
+	COLOR: #000
+}
+.newsline TD A:active {
+	COLOR: #000
+}
+.introliness {
+	PADDING-RIGHT: 4px; OVERFLOW-Y: hidden; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; LINE-HEIGHT: 20px; PADDING-TOP: 4px; HEIGHT: 250px
+}
+.introlines {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; LINE-HEIGHT: 21px; PADDING-TOP: 4px
+}
+.introline {
+	BORDER-RIGHT: #b9b9b9 1px solid; PADDING-RIGHT: 4px; BORDER-TOP: #b9b9b9 0px solid; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; BORDER-LEFT: #b9b9b9 1px solid; LINE-HEIGHT: 21px; PADDING-TOP: 4px; BORDER-BOTTOM: #b9b9b9 1px solid
+}
+
+
+.style1 {WIDTH: 63px
+}
+.STYLE2 {
+	color: #477641;
+	font-weight: bold;
+}
+.STYLE3 {color: #FFFFFF}
+.STYLE4 {color: #FFFFFF; font-weight: bold; }
+.STYLE7 {color: #6D2E18; font-weight: bold; }
